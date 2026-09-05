@@ -1,0 +1,4 @@
+Retriggering extraction workflow from repository root — authorized by repository owner
+
+This file was updated automatically by GitHub Copilot at user request to retrigger the extract-zip workflow from the repository root (main branch).
+Timestamp: 2026-09-05T04:50:00Z
